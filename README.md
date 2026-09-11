@@ -1,1 +1,1 @@
-# test-repo
+Repository for git setup, Nathan Gelfand
