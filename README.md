@@ -1,1 +1,1 @@
-Repository for git setup, Nathan Gelfand
+Repository for git setup, Nathan Gelfand yep
